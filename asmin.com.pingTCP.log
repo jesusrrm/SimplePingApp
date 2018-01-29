@@ -1,0 +1,928 @@
+{"date":"Sun Jan 28 23:07:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:07:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:07:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:07:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:07:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:07:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:07:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:07:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:07:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:07:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:07:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:08:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:09:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:07 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:10:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:11:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:22 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:12:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:13:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:07 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:11 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:15 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:22 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:26 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:14:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:15 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:15:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:22 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:16:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:17:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:22 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:26 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:18:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:22 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:26 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:19:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:20:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:07 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:11 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:15 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:21:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:22:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:23:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:22 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:24:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:25:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:26:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:27:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:28:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:07 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:11 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:15 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:29:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:07 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:11 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:15 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:26 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:30:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:26 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:31:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:32:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:07 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:11 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:22 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:26 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:33:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:34:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:35:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:36:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:37:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:07 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:11 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:15 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:38:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:45 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:39:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:40:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:07 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:11 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:41:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:42:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:15 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:43:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:26 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:44:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:45:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:46:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:47:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:48:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:07 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:11 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:15 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:49:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:50:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:51:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:15 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:52:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:37 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:53:57 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:11 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:54:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:22 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:26 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:34 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:55:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:05 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:47 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:51 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:56:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:17 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:29 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:57:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:43 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:50 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:54 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:58:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:07 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:19 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:23 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:26 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:27 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:38 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:55 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Sun Jan 28 23:59:59 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:03 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:46 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:49 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:00:58 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:02 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:06 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:14 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:22 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:26 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:30 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:33 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:01:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:31 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:35 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:39 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:41 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:42 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:53 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:02:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:01 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:09 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:10 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:13 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:18 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:21 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:25 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:28 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:32 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:36 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:40 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:44 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:48 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:52 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:03:56 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:04:00 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:04:04 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:04:08 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:04:12 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:04:16 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:04:20 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+{"date":"Mon Jan 29 00:04:24 AST 2018","host":"asmin.com","tcp_ping":"HTTP/1.1 200 OK"}
+
